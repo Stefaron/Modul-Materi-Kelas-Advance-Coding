@@ -1,0 +1,3 @@
+Python adalah bahasa pemrograman.
+Saya sedang belajar membaca dan menulis file.
+Latihan membuat kita mahir.

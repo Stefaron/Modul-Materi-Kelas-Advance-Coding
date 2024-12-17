@@ -1,0 +1,7 @@
+Python adalah bahasa pemrograman yang sangat populer.
+Dengan Python, kita bisa membuat banyak hal.
+Python digunakan dalam berbagai bidang, seperti web development, data science, dan automasi.
+Ada banyak framework Python yang bisa kita pelajari, seperti Django, Flask, dan Pandas.
+Flask adalah framework Python yang sangat ringan dan cocok untuk membangun API.
+Namun, jika ingin membangun aplikasi yang lebih besar, Django bisa jadi pilihan.
+Python juga sering digunakan untuk skrip otomatisasi sederhana.
